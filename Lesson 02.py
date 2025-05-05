@@ -1,0 +1,8 @@
+print("Intro")
+print()
+print("My name is \"Hussain Raza\"")
+print("I am \"15\" year old")
+print("I am currently pursuing my matriculation from Alliance School.")
+print("Lerning python is for me a new experience.")
+print("I am from \"Karachi\"")
+print("I aspire to become a \"surgeon\" to serve humanity through \"medical science.\"")
